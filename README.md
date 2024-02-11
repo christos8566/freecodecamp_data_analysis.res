@@ -1,3 +1,3 @@
 # freecodecamp_data_analysis.res
 
-This fold is for practise and training the data analysis skills 
+This activity is for practice and training in data analysis skills
